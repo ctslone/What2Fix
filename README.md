@@ -5,7 +5,7 @@ Have you ever had a long day, forget to run by the store and then have to no ide
 ## Getting Started
 
 It is very easy to begin using the app at home, yourself!
-Just follow this link: [What2Fix](https://zhenyang9261.github.io/web-project1/)
+Just follow this link: [What2Fix](https://ctslone.github.io/What2Fix/)
 
 Some notes to help you have the best user experience:
 
